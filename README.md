@@ -1,4 +1,6 @@
 # TUGAS5
+bisa dicoba tetapi tidak bisa karena harus dengan database
+https://roofiifalria.github.io/TUGAS5/
 ## Data diri
 - **Nama**: Roofiif Alria Dzakwan
 - **NRP**: 5025221012
